@@ -5,7 +5,7 @@ class DB {
     var $host = "localhost";
     var $user = "root";
     var $pass = "";
-    var $dbs = "db_spp";
+    var $dbs = "db_spp1";
 
     public function connect()
     {
